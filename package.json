@@ -1,0 +1,11 @@
+{
+  "name": "n148",
+  "version": "1.0.0",
+  "description": "testing top level await",
+  "main": "index.mjs",
+  "dependencies": {
+    "js-dir-into-json": "^2.3.0"
+  },
+  "author": "Martin Rafael",
+  "license": "ISC"
+}
